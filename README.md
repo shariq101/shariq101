@@ -36,6 +36,7 @@ In my free time, I also love to read fictions from great minds like Dostoevsky e
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
   </a> 
 
+---
   
   ### Github Stats
 
