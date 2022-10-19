@@ -36,6 +36,13 @@ In my free time, I also love to read fictions from great minds like Dostoevsky e
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
   </a> 
 
+  
+  ### Github Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shariq101&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shariq101&theme=onedark&layout=compact)
+
 <!--
 **shariq101/shariq101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
