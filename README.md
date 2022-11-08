@@ -1,6 +1,6 @@
 ### Shariq Ansari's Github Page 👋
 
-Hi, My name is Shariq Ansari, I am currently working as Data Engineer. I love Integrating Data from various sources and running Analysis on them.
+Hi, My name is Shariq Ansari, I am currently working as Data/ Software Engineer. I love Integrating Data from various sources and running Analysis on them.
 I am excited about how we can collect Healthcare data and help consumers make good life choices in Real-time.
 
 
