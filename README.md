@@ -6,7 +6,7 @@ I am excited about how we can collect Healthcare data and help consumers make go
 
 🔭 I’m currently working on Deep Learning Models
 
-🌱 I’m currently learning RNN
+🌱 I’m currently learning BERT, ELMo and everything leading to GPT-3.
 
 Apart from the world of tech, I like reading philosphy specially Lingustics and Etymologics, which helps me understand NLP with a unique perspective.
 
